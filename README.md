@@ -10,6 +10,8 @@ Bridging the gap between business concerns and technical concerns is valuable to
 
 Immersing in the technical side just a little more makes it much easier to get tha credibility and increase overall Chainguard value without adding more head count.
 
+Inspired by (and carved out of) [Intro To DevOps by Aaron Brown](https://gitlab.com/sofreeus/introtodevops)
+
 ---
 
 ### Class Goal
